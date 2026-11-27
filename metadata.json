@@ -1,0 +1,6 @@
+{
+  "name": "FastBite",
+  "description": "Smart Canteen & Kitchen Management app for browsing menus, pre-ordering meals with digital pickup tokens, and managing live kitchen queues, weekly plans, payments, and wastage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

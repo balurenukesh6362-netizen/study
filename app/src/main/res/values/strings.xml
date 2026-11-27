@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FastBite</string>
+    <string name="app_tagline">Smart Canteen &amp; Kitchen Management</string>
+    <string name="hero_headline">Skip the Queue.\nSavour Every Break.</string>
+    <string name="hero_subtitle">Pre-order hot meals, track live kitchen prep, and collect with instant digital tokens.</string>
+    <string name="role_customer_title">Student &amp; Customer</string>
+    <string name="role_customer_desc">Browse daily menus, pre-book slots, pay online or COD &amp; get digital pickup tokens.</string>
+    <string name="role_staff_title">Kitchen &amp; Staff</string>
+    <string name="role_staff_desc">Manage live prep queues, dish stock, weekly plans, payments &amp; wastage.</string>
+    <string name="cd_brand_logo">FastBite brand icon</string>
+    <string name="cd_hero_banner">FastBite canteen spread banner</string>
+    <string name="cd_dish_photo">Dish photograph</string>
+    <string name="cd_cart">Open cart</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_profile">Customer profile and settings</string>
+</resources>
